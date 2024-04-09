@@ -1,0 +1,15 @@
+{
+  "name": "crudmern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd backend && npm install",
+    "start-server": "cd backend && node src/index.js",
+    "install-client": "cd frontend && npm install",
+    "start-client": "cd frontend && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
